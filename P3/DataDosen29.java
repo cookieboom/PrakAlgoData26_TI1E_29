@@ -4,9 +4,9 @@ public class DataDosen29 {
     public void dataSemuaDosen(Dosen29[] arrayOfDosen) {
         String jkS;
         int counter;
+        counter = 1;
 
         for (Dosen29 dosen29 : arrayOfDosen) {
-            counter = 1;
 
             System.out.println("Data Dosen ke-" + counter);
             System.out.println("Kode        : " + dosen29.kode);
