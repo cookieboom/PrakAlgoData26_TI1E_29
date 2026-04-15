@@ -35,7 +35,7 @@ public class MahasiswaDemo {
         System.out.print("IPK: ");
         double cari = sc.nextDouble();
     
-        System.out.println("menggunakan sequential searching");
+        System.out.println("menggunakan binary searching");
         double posisi = list.findBinarySearch(cari,0, jumMhs-1);
         int pss = (int)posisi;
         list.tampilPosisi(cari, pss);
