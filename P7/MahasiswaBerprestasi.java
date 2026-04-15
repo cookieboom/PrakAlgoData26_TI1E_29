@@ -62,12 +62,10 @@ public class MahasiswaBerprestasi {
         if (right >= left) {
             mid = (left + right) / 2;
             if (cari == listMhs[mid].ipk) {
-                return (mid);
+                return mid;
             } else if (listMhs[mid].ipk > cari) {
-                // Data ascending: jika mid > cari, cari berada di sebelah kiri
                 return findBinarySearch(cari, left, mid - 1);
             } else {
-                // Data ascending: jika mid < cari, cari berada di sebelah kanan
                 return findBinarySearch(cari, mid + 1, right);
             }
         }
