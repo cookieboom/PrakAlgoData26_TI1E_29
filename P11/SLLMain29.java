@@ -1,7 +1,5 @@
 package P11;
 
-import java.util.Scanner;
-
 public class SLLMain29 {
     public static void main(String[] args) {
         SingleLinkedList29 sll = new SingleLinkedList29();
