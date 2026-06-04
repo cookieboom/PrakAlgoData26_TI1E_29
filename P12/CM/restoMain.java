@@ -8,6 +8,7 @@ public class restoMain {
         int pilihan;
         DLLP antrian = new DLLP();
         DLLO pesanan = new DLLO();
+        DLLR laporan = new DLLR();
 
         do {
             System.out.println("===============================");
@@ -17,6 +18,7 @@ public class restoMain {
             System.out.println("2. Cetak Antrian");
             System.out.println("3. Hapus dan Pesan");
             System.out.println("4. Laporan Pesanan");
+            System.out.println("5. laporan Order");
             System.out.println("0. Keluar");
             System.out.print("Pilih: ");
             pilihan = sc.nextInt();
@@ -46,11 +48,17 @@ public class restoMain {
                     System.out.print("Harga        : ");
                     int hargaPesanan = sc.nextInt();
                     sc.nextLine();
+                    //menyimpan menu ke rekap
+                    rekap r = new rekap(namaPesanan);
+                    laporan.tambahMenu(r);
                     order o = new order(kode, namaPesanan, hargaPesanan);
                     pesanan.tambahPesanan(o);
                     System.out.println(pembeli.namaPembeli + " telah memesan " + o.namaPesanan);
                     break;
                 case 4:
+                    laporan.cetakPesananRekap();
+                    break;
+                case 5:
                     pesanan.cetakPesananOrder();
                     break;
                 case 0:
