@@ -10,9 +10,11 @@ Kelas : TI-1E
 
 ### Hasil Running
 
+<img width="458" height="716" alt="Screenshot 2026-06-04 at 12 30 22" src="https://github.com/user-attachments/assets/876758ac-a567-4540-a075-867bb2262292" />
 
 ### Pertanyaan 14.2
 
+<img width="626" height="426" alt="Screenshot 2026-06-04 at 12 55 03" src="https://github.com/user-attachments/assets/ab97b645-9fdb-470b-a484-f502b236b1d4" />
 
 ### Jawaban 14.2
 
@@ -39,9 +41,11 @@ Kelas : TI-1E
 
 ### Hasil Running
 
+<img width="460" height="171" alt="Screenshot 2026-06-04 at 12 55 40" src="https://github.com/user-attachments/assets/66894050-e3c7-4a5c-b2fe-15682095c42c" />
 
 ### Pertanyaan 14.3
 
+<img width="618" height="189" alt="Screenshot 2026-06-04 at 12 55 58" src="https://github.com/user-attachments/assets/ba10d44a-5cb0-44d4-96dc-fa92ae5b2de1" />
 
 ### Jawaban 14.3
 
@@ -64,6 +68,8 @@ Kelas : TI-1E
 
 ## Tugas
 
+<img width="626" height="263" alt="Screenshot 2026-06-04 at 12 56 24" src="https://github.com/user-attachments/assets/eca123b2-ac1e-468d-b1f5-a8fea322653d" />
 
 ### Hasil Running
 
+<img width="510" height="373" alt="Screenshot 2026-06-04 at 12 57 10" src="https://github.com/user-attachments/assets/9a4acc58-1b60-488b-8379-eaf385f61b00" />
