@@ -34,3 +34,26 @@ ArrayList masih bisa diinstansiasi meskipun tidak menentukan ukuran awal.
 
 ### Langkah 12 Hasil Running
 <img width="446" height="238" alt="Screenshot 2026-06-08 at 16 43 21" src="https://github.com/user-attachments/assets/b488ae09-d5f8-4b3a-852a-ec520f40a846" />
+
+
+## 13.4 Praktikum - Implementasi Stack
+### Hasil Running
+
+### Jawaban Pertanyaan Langkah 5
+Karena untuk memastikan bahwa sudah ada data pada stack, sehingga tidak terjadi stack underflow.
+
+### Jawaban Pertanyaan Langkah 8
+int temp3 = books.search(book1);
+
+## 13.5 Praktikum - Implementasi TreeSet
+### Hasil Running
+
+### Jawaban Pertanyaan Langkah 6
+- `first()`: Mengembalikan elemen pertama (terkecil) dalam TreeSet.
+- `last()`: Mengembalikan elemen terakhir (terbesar) dalam TreeSet.
+- `remove()`: Menghapus elemen tertentu dari TreeSet.
+- `pollFirst()`: Menghapus dan mengembalikan elemen pertama (terkecil) dalam TreeSet.
+- `pollLast()`: Menghapus dan mengembalikan elemen terakhir (terbesar) dalam TreeSet.
+
+## 13.6 Praktikum – Sorting
+### Hasil Running
