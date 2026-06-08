@@ -38,6 +38,7 @@ ArrayList masih bisa diinstansiasi meskipun tidak menentukan ukuran awal.
 
 ## 13.4 Praktikum - Implementasi Stack
 ### Hasil Running
+<img width="508" height="137" alt="Screenshot 2026-06-08 at 18 29 42" src="https://github.com/user-attachments/assets/0cd6db54-c48b-4165-b399-beded97aa477" />
 
 ### Jawaban Pertanyaan Langkah 5
 Karena untuk memastikan bahwa sudah ada data pada stack, sehingga tidak terjadi stack underflow.
@@ -47,6 +48,7 @@ int temp3 = books.search(book1);
 
 ## 13.5 Praktikum - Implementasi TreeSet
 ### Hasil Running
+<img width="509" height="183" alt="Screenshot 2026-06-08 at 18 29 53" src="https://github.com/user-attachments/assets/de6b422f-59fb-427f-96de-7278e3143919" />
 
 ### Jawaban Pertanyaan Langkah 6
 - `first()`: Mengembalikan elemen pertama (terkecil) dalam TreeSet.
@@ -57,3 +59,4 @@ int temp3 = books.search(book1);
 
 ## 13.6 Praktikum – Sorting
 ### Hasil Running
+<img width="512" height="101" alt="Screenshot 2026-06-08 at 18 41 23" src="https://github.com/user-attachments/assets/06736052-3cdf-4ae7-9adf-d9335205b5eb" />
